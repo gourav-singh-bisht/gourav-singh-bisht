@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gourav Singh
 
-<!--
-**gourav-singh-bisht/gourav-singh-bisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA graduate from Integral University, Lucknow, rebuilding my career in software engineering.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Science fundamentals
+- Programming
+- Backend development
+- Software engineering
+- AI engineering
+
+## Learning Path
+
+Computer Science → Software Engineering → Backend → AI Engineering
+
+## Current Status
+
+Currently rebuilding my technical foundation from the ground up, starting with CS50 and programming fundamentals.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/itsgourav/
+- X: https://x.com/sing57937
