@@ -21,4 +21,4 @@ Currently rebuilding my technical foundation from the ground up, starting with C
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/itsgourav/
-- X: https://x.com/sing57937
+- X: https://x.com/gouravsingh1603
